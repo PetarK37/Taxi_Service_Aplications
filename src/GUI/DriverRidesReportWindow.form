@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUI.DriverRidesReportWindow">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <preferredSize width="1200" height="500"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="616cc" binding="imputPanel" layout-manager="GridBagLayout">
+        <constraints border-constraint="West"/>
+        <properties>
+          <preferredSize width="200" height="500"/>
+          <toolTipText value="[Januar,Februar,Mart,April,Maj,Jun,Jul,Avgust,Septembar,Oktobar,Novembar,Decembar]"/>
+          <verifyInputWhenFocusTarget value="false"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="5d2c1" class="javax.swing.JLabel" binding="yearLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+              <gridbag top="0" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <name value=""/>
+              <opaque value="true"/>
+              <text value="Godina:"/>
+            </properties>
+          </component>
+          <component id="29de2" class="javax.swing.JTextField" binding="yearInputField">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+              <gridbag top="10" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <preferredSize width="100" height="30"/>
+            </properties>
+          </component>
+          <component id="2ce61" class="javax.swing.JLabel" binding="monthLabel">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+              <gridbag top="0" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <name value=""/>
+              <opaque value="true"/>
+              <text value="Mesec:"/>
+            </properties>
+          </component>
+          <component id="4e8e5" class="javax.swing.JComboBox" binding="monthBox">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+              <gridbag top="10" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <preferredSize width="100" height="30"/>
+              <toolTipText value="[Januar,Februar,Mart,April,Maj,Jun,Jul,Avgust,Septembar,Oktobar,Novembar,Decembar]"/>
+              <verifyInputWhenFocusTarget value="false"/>
+            </properties>
+          </component>
+          <component id="349d3" class="javax.swing.JLabel" binding="dayLabel">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+              <gridbag top="0" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <name value=""/>
+              <opaque value="true"/>
+              <text value="Dan(Broj u mesecu):"/>
+            </properties>
+          </component>
+          <component id="485aa" class="javax.swing.JTextField" binding="dayTextField">
+            <constraints>
+              <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+              <gridbag top="10" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <preferredSize width="100" height="30"/>
+            </properties>
+          </component>
+          <component id="eddcb" class="javax.swing.JButton" binding="yearlyReportBtn">
+            <constraints>
+              <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <gridbag top="5" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <text value="Godisnji izvestaj"/>
+            </properties>
+          </component>
+          <component id="88af6" class="javax.swing.JButton" binding="monthlyReportBtn">
+            <constraints>
+              <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <gridbag top="5" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <text value="Mesecni izvestaj"/>
+            </properties>
+          </component>
+          <component id="c01f0" class="javax.swing.JButton" binding="weeklyReportBtn">
+            <constraints>
+              <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <gridbag top="5" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <text value="Nedeljni izvestaj"/>
+            </properties>
+          </component>
+          <component id="6daaa" class="javax.swing.JButton" binding="dalyReportBtn">
+            <constraints>
+              <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <gridbag top="5" left="10" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <text value="Dnevni izvestaj"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="32267" binding="tablePanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="Center"/>
+        <properties/>
+        <border type="none"/>
+        <children/>
+      </grid>
+    </children>
+  </grid>
+</form>

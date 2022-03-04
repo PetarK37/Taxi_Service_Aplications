@@ -1,0 +1,11 @@
+false,100,Skoda,Octavia,2018,NS021EC,0,milanj,true
+false,101,Renault,Clio,2020,NS008CC,1,-,false
+true,102,Dacia,Logan,2017,NS098FK,0,-,false
+false,103,test,test,2014,test123,0,testvozac,true
+false,104,Wolkswagen,ID3,2020,NS008EE,0,-,true
+false,105,BMW,i3,2021,NS033BG,0,-,true
+true,106,Fiat,Doblo,2007,NS021FF,1,-,false
+false,107,Audi,A6,2018,NS123UH,0,sonjam,true
+false,108,Peugeot,307,2008,NS031GG,0,-,true
+false,109,Test vozilo 2,test model 2,2018,NS000TV,1,-,false
+false,110,Tesla,3,2020,NS005TS,0,-,true

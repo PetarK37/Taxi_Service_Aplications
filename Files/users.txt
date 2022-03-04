@@ -1,0 +1,9 @@
+false,0,pericp,peric123,Pera,Peric,10100176892,0,Bulevar Oslobodjenja 17,+381601234567
+false,1,10000,markovicm,markovic123,Marko,Markovic,20299967893,0,Alberta Ajnstajna 14,+381690987654,1080.0,3.0,105
+false,2,zigicz,zigic123,Zika,Zigic,30399889765,0,Boska Buhe 11,+381612345678,40000.0,1,613452341
+false,0,nikolicn,nikolic123,Nikola,Nikolic,4049976754,0,Danciceva 38,+381653254895
+false,1,10001,jovanj,jovan123,jova,jokic,5059964567,0,test adresa neka,0603035414,430.0,2.0,101
+false,2,ivanovici,ivanovic123,Ivana,Ivanovic,10400175692,1,Jug Bogdana 5,+381673216549,42000.0,0,606995213
+false,1,10002,testvozac,test123,test ime,test prezime,1111111,0,Test adresa kao,060000000,2420.0,3.0,103
+false,1,10003,milanj,milan123,Milna,Jevtic,123345,0,Maksima gorkog 12,060012345,2830.0,4.0,100
+false,1,10004,sonjam,sonja123,Sonja, Markovic,1133344,1,Test adresa ,06334455,2560.0,3.0,107

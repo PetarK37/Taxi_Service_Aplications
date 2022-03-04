@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUI.AppReservationAcceptWindow">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <preferredSize width="1200" height="600"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="44093" binding="buttonsPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+        <constraints border-constraint="North"/>
+        <properties>
+          <preferredSize width="1200" height="50"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="e567a" class="javax.swing.JButton" binding="acceptBtn">
+            <constraints/>
+            <properties>
+              <preferredSize width="80" height="40"/>
+              <text value="Prihvati"/>
+            </properties>
+          </component>
+          <component id="dac9a" class="javax.swing.JButton" binding="declineBtn">
+            <constraints/>
+            <properties>
+              <preferredSize width="80" height="40"/>
+              <text value="Odbi"/>
+            </properties>
+          </component>
+          <component id="3d4e5" class="javax.swing.JButton" binding="finishBtn">
+            <constraints/>
+            <properties>
+              <preferredSize width="80" height="40"/>
+              <text value="Zavrsi"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

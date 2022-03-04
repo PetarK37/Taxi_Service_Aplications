@@ -1,0 +1,1 @@
+123456,Test  taksi servis,Test adresa 15,70,150

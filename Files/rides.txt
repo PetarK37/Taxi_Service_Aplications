@@ -1,0 +1,37 @@
+false,1000,22-Apr-2021 at 16:21:07,Strazilovska 27,Laze kostica 13,0.7,10.0,300,4,markovicm,pericp,3,Test neka napomena
+false,1001,24-Apr-2021 at 10:41:00,Bulevar Patrijarha Pavla 14,Radnicka 13,2.0,20.0,600,4,markovicm,nikolicn,3
+false,1002,04-Mar-2022 at 15:42:43,test adresa,isto test,10.0,19.0,500,4,markovicm,pericp,3
+false,1003,04-Mar-2022 at 15:42:43,Test adresa,destinacija,0.0,0.0,0,5,testvozac,pericp,0,Sacekati 5 minuta
+false,1004,04-Mar-2022 at 15:42:43,Test adresa1,destinacija2,2.0,20.0,230,4,testvozac,pericp,5
+false,1005,04-Mar-2022 at 15:42:43,Strazilovska 27,Laze kostica 13,0.0,0.0,0,5,jovanj,nikolicn,0,Pozvoniti na interfon
+false,1006,04-Mar-2022 at 15:42:43,Bulevar oslobodjenja 34,Zeleznicka 12,4.0,20.0,360,4,markovicm,nikolicn,3,napomena neka
+false,1007,02-Jun-2021 at 23:12:18,Kisacka 13,Futoska 10,5.0,12.0,430,4,jovanj,pericp,2,Parking je rezervisan
+false,1008,05-Jun-2021 at 08:52:52,Masraikova 13,Centar trg,4.0,10.0,360,4,testvozac,pericp,5,-
+false,1008,05-Jun-2021 at 09:52:52,Masraikova 18,Centar trg,4.2,12.0,380,4,testvozac,pericp,0,-
+false,1009,14-Jun-2021 at 18:41:08,Masarikova 12,Strazilovska 13,4.0,15.0,370,4,milanj,nikolicn,4,-
+false,1011,20-Jun-2021 at 00:54:21,Neka adresa,Isto neka,20.0,34.0,1330,4,testvozac,pericp,3,testiranje aukcije
+false,1012,20-Jun-2021 at 02:06:19,Test,TEst2,12.0,23.0,850,4,sonjam,pericp,0,Testiranje aukcije 2
+false,1013,20-Jun-2021 at 02:08:33,Test3,Test3,0.0,0.0,0,1,-,pericp,0,Testiranje 3
+false,1014,20-Jun-2021 at 02:12:23,Test3,Test3,0.0,0.0,0,1,-,pericp,0,Testiranje aukcije3
+false,1015,20-Jun-2021 at 02:13:36,Test 3,Test 3,12.0,27.0,870,4,milanj,pericp,5,Test aukcije 3
+false,1016,20-Jun-2021 at 18:04:51,Zeleznicka 13,Nepostojeca 15,0.0,0.0,0,5,sonjam,pericp,0,Napomena
+false,1017,20-Jun-2021 at 18:04:51,Nepostojeca 22,Nepostojeca 13,5.0,12.0,430,4,sonjam,pericp,4,Napomena
+false,1018,21-Jun-2021 at 20:39:29,neka adresa,isto neka,12.0,22.0,870,4,milanj,pericp,0,nema je
+false,1019,22-Jun-2021 at 16:35:07,Strazilovska bb,Centar trg,3.0,8.0,360,4,milanj,pericp,5,-
+false,1020,22-Jun-2021 at 16:35:59,Strazilovska test,Trg test,0.0,0.0,0,1,-,pericp,0,test
+false,1021,22-Jun-2021 at 21:24:52,Bulevar patrijarha pavla 12,Temerinska 15,2.0,5.0,290,4,testvozac,pericp,0,Prva kapija u dvoristu
+false,1022,24-Jun-2021 at 18:53:31,Kej zrtava racije,Brace ribnikar 12,0.0,0.0,0,1,-,nikolicn,0,Sacekati kod ideje
+false,1023,03-Jul-2021 at 09:25:24,Test adresa,Test dolazak,0.0,0.0,0,1,-,pericp,0,-
+false,1024,03-Jul-2021 at 09:26:33,Test adresa,Test dolazak,0.0,0.0,0,1,-,pericp,0,Test
+false,1025,03-Jul-2021 at 11:01:56,sasda,dasdasd,0.0,0.0,0,1,-,pericp,0,dddd
+false,1026,09-Jul-2021 at 11:50:56,Sv. Lovre 68a,Zupanijska 15,2.0,6.0,290,4,markovicm,pericp,5,Plava vrata pored parkinga
+false,1027,09-Jul-2021 at 11:51:51,Bunska 10,22. gardijske brigade 9,5.0,10.0,500,4,testvozac,pericp,4,-
+false,1028,09-Jul-2021 at 11:52:31,Kelekova 59b,Katedralska b.b.,5.0,12.0,500,4,sonjam,pericp,5,Ulaz pored prodavnice
+false,1029,09-Jul-2021 at 11:53:10,Trg Nikole Šubića Zrinskog 4,Varaždinska 39b,6.0,12.0,570,4,markovicm,pericp,3,-
+false,1030,09-Jul-2021 at 11:53:48,Smiljanićeva 2,Vrlije 34,8.0,16.0,710,4,testvozac,pericp,4,-
+false,1031,09-Jul-2021 at 11:54:13,Ivana Cankara 9,Rakovac 39,16.0,25.0,1270,4,sonjam,pericp,4,-
+false,1032,09-Jul-2021 at 11:54:43,Aleksandra Ugalije 4,Laz Bistrički 191,1.0,5.0,220,4,markovicm,pericp,5,-
+false,1033,09-Jul-2021 at 11:55:17,Glavička 29,Put Skalica 18,3.0,8.0,360,4,sonjam,pericp,5,-
+false,1034,09-Jul-2021 at 13:23:39,Test adresa,Test dolazak,0.0,0.0,0,2,markovicm,pericp,0,-
+false,1035,04-Mar-2022 at 15:42:43,test,test2,0.0,0.0,0,2,testvozac,pericp,0,test
+false,1036,04-Mar-2022 at 15:43:11,Maksima Gorkog,Maksima Gorkog,0.0,0.0,0,1,-,pericp,0,-
